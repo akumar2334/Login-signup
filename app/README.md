@@ -4,4 +4,4 @@ import .sql file which is inside app folder, in local host and check dbconfig fi
 npm start inside app folder or where package.json present
 
 
-check your running port port 5000 should be free or change port in index.js and src/shared/service.js
+check your running port  5000 should be free or change port in index.js and src/shared/service.js
